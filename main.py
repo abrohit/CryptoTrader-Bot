@@ -27,7 +27,7 @@ def GetRSI(ticker = 'BTCINR'):#Gets the RSI value of any ticker. BTCINR is defau
     option = webdriver.ChromeOptions()
     option.add_argument('headless')
 
-    driver = webdriver.Chrome('D:\Desktop\Programming\WebDrivers\chromedriver.exe', options=option)#Selenium Path.
+    driver = webdriver.Chrome('', options=option)#Selenium Path.
     driver.get(url)
 
     timeFrame = driver.find_element_by_xpath('/html/body/div[2]/div[5]/div/div/div/div/div/div/div/div[2]/div/div[2]/div/div/div[1]/div/div/div[1]/div/div/div[2]')
