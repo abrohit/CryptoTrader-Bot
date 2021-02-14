@@ -11,7 +11,7 @@
 
 ## About the Project
 
-A very simple bot that only trades based on the RSI value. It's simple strategy is to buy when RSI value comes back up(you can chose the buy back RSI value) and sell when the RSI goes back down(you can chose the RSI sell value). With basic testing I have seen anywhere between 3% to 7% returns daily. This would be different for different cryptocurrencies.
+A very simple bot that only trades based on the RSI value. It's simple strategy is to buy when RSI value comes back up(you can choose the buy back RSI value) and sell when the RSI goes back down(you can choose the RSI sell value). With basic testing I have seen anywhere between 3% to 7% returns daily. This would be different for different cryptocurrencies.
 
 ## Tech Stack
 - Python
