@@ -18,7 +18,7 @@ A very simple bot that only trades based on the RSI value. It's simple strategy 
 
 After downloading the script, replace the [key](https://github.com/abrohit/CryptoTrader-Bot/blob/main/main.py#L18) and [secret](https://github.com/abrohit/CryptoTrader-Bot/blob/main/main.py#L20) on line 18 and 20 respectively with your key and secret from Coindcx.
 
-Make sure to change [run = False](https://github.com/abrohit/CryptoTrader-Bot/blob/main/main.py#L106) on line 106 to `run = True` to make sure the loop runs.
+Make sure to change [run = False](https://github.com/abrohit/CryptoTrader-Bot/blob/main/main.py#L106) on line 106 to `run = True` to make sure the main loop runs.
 
 ## Tech Stack
 - Python
